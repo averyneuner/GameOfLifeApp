@@ -1,6 +1,6 @@
 <h1>Game of Life</h1>
 
-An application was created for the Advanced Topics in Computer Science: Object-Oriented Programming class. It follows the rules for Conway's Game of Life, which is a cellular automaton in which each cell has a binary state alive or dead, and can either be killed or revived based on the status of their neighbors. This app allows users to select which cells they would like to have alive and watch the scene evolve as cells live or die. <br> <br>
+This application was created for the Advanced Topics in Computer Science: Object-Oriented Programming class. It follows the rules for Conway's Game of Life, which is a cellular automaton in which each cell has a binary state alive or dead, and can either be killed or revived based on the status of their neighbors. This app allows users to select which cells they would like to have alive and watch the scene evolve as cells live or die. <br> <br>
 
 Link to rules: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life 
 
